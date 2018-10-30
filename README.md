@@ -7,3 +7,4 @@ This is a set of sripts for answering the Totvs data challenge. The folder here 
 3. challenge.py - this contains code required to answer the questions posed in the challenge 
 4. mlhayden.py - some basic functions used by other scripts
 
+Note: Only challenge.py need really be run. The other scripts are optional. I included them only to demonstrate how I obtained the information I used to answer the questions.
